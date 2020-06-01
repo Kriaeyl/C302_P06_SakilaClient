@@ -1,0 +1,2 @@
+rootProject.name='C302_P06_SakilaClient'
+include ':app'
